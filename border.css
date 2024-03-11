@@ -1,0 +1,19 @@
+h2 {
+    color: red;
+}
+.thirdcard {
+    width: 250px;
+}
+h1{
+    border-bottom: 2px solid   aquamarine;
+    text-align: center; 
+}
+
+
+.maincard{
+    margin: auto;
+    width: 1000px;
+}
+img {
+    margin-left: 400px;
+}

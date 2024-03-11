@@ -1,0 +1,12 @@
+li {
+    border: 1px solid black;
+    list-style: none;
+    width: 100px;
+    transition:0.3s ;
+}
+li:hover{
+    color: yellow;
+    background-color: green;
+    height: 30px;
+    font-size: 20px;
+}
